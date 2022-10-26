@@ -1,4 +1,4 @@
-package com.example.belajarandroid
+package belajarandroid.example.belajarandroid
 
 import org.junit.Test
 

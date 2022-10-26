@@ -1,4 +1,4 @@
-package com.example.belajarandroid.ui.theme
+package com.example.belajarandroid
 
 import androidx.compose.ui.graphics.Color
 

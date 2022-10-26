@@ -1,4 +1,4 @@
-package com.example.belajarandroid.ui.theme
+package com.example.belajarandroid
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle

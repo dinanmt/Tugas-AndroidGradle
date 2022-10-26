@@ -1,4 +1,4 @@
-package com.example.belajarandroid.ui.theme
+package com.example.belajarandroid
 
 import android.app.Activity
 import android.os.Build
