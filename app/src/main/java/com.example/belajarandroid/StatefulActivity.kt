@@ -38,7 +38,7 @@ fun EchoText() {
         if (displayedText.isNotEmpty()) {
             Text(
                 //text = "hallo DEK"
-                text = "Hello" + displayedText
+                text = "Hello " + displayedText
             )
         }
 

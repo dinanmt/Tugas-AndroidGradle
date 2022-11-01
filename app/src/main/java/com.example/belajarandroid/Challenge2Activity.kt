@@ -16,7 +16,7 @@ import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 
-class DemoActivity : ComponentActivity() {
+class Challenge2Activity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
 
@@ -35,7 +35,7 @@ class DemoActivity : ComponentActivity() {
             ) {
 
                 Image(
-                    painter = painterResource(id = R.drawable.wp10514716_kereta_api_indonesia_wallpapers),
+                    painter = painterResource(id = R.drawable.ganci_n_sticker_nk_light),
                     contentDescription = "Gambar"
                 )
 
@@ -44,7 +44,7 @@ class DemoActivity : ComponentActivity() {
                     modifier = Modifier.fillMaxWidth()
                 ) {
                     Text(
-                        text = "Naik Kereta Apiii",
+                        text = "Challenge2",
                         fontSize = 24.sp,
                         modifier = Modifier.padding(16.dp, 16.dp, 16.dp, 4.dp),
                         color = warnaHitam,
@@ -56,7 +56,7 @@ class DemoActivity : ComponentActivity() {
                     modifier = Modifier.fillMaxWidth()
                 ) {
                     Text(
-                        text = "TUT TUT TUTTTT",
+                        text = "GO GO GOOO",
                         fontSize = 30.sp,
                         modifier = Modifier.padding(16.dp, 0.dp, 16.dp, 4.dp),
                         color = Color(merah),
