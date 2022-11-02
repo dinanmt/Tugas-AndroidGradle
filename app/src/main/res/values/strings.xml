@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">BelajarAndroid</string>
+    <string name="text_kai">KAI</string>
+    <string name="text_kai2">Kereta Api Indonesia</string>
+    <string name="text_kcic">KCIC</string>
+    <string name="text_kcic2">Kereta Cepat Indonesia Cina</string>
+    <string name="text_krl">KRL</string>
+    <string name="text_krl2">Kereta Rel Listrik</string>
+    <string name="text_lrt">LRT</string>
+    <string name="text_lrt2">Light Rail Transit</string>
+    <string name="text_mrt">MRT</string>
+    <string name="text_mrt2">Mass Rapid Transit</string>
+    <string name="text_railink">Railink</string>
+    <string name="text_railink2">KAI Bandara</string>
 </resources>
